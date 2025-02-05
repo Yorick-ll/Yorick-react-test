@@ -1,11 +1,8 @@
-# Yorick React Test
+# React + Vite
 
-这是一个React测试项目，用于展示和测试React相关功能。
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 项目说明
+Currently, two official plugins are available:
 
-本项目使用React框架开发，旨在提供一个简单的测试环境。
-
-## 许可证
-
-本项目基于Apache License 2.0许可证开源。
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
